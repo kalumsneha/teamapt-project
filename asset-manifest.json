@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kalumsneha/teamapt-project/static/css/main.774b8683.chunk.css",
+    "main.js": "/kalumsneha/teamapt-project/static/js/main.82b6c353.chunk.js",
+    "main.js.map": "/kalumsneha/teamapt-project/static/js/main.82b6c353.chunk.js.map",
+    "runtime-main.js": "/kalumsneha/teamapt-project/static/js/runtime-main.718869b0.js",
+    "runtime-main.js.map": "/kalumsneha/teamapt-project/static/js/runtime-main.718869b0.js.map",
+    "static/js/2.4b9b3760.chunk.js": "/kalumsneha/teamapt-project/static/js/2.4b9b3760.chunk.js",
+    "static/js/2.4b9b3760.chunk.js.map": "/kalumsneha/teamapt-project/static/js/2.4b9b3760.chunk.js.map",
+    "index.html": "/kalumsneha/teamapt-project/index.html",
+    "static/css/main.774b8683.chunk.css.map": "/kalumsneha/teamapt-project/static/css/main.774b8683.chunk.css.map",
+    "static/js/2.4b9b3760.chunk.js.LICENSE.txt": "/kalumsneha/teamapt-project/static/js/2.4b9b3760.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.718869b0.js",
+    "static/js/2.4b9b3760.chunk.js",
+    "static/css/main.774b8683.chunk.css",
+    "static/js/main.82b6c353.chunk.js"
+  ]
+}
