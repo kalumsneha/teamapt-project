@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/teamapt-project/static/css/main.774b8683.chunk.css",
-    "main.js": "/teamapt-project/static/js/main.3786d6dc.chunk.js",
-    "main.js.map": "/teamapt-project/static/js/main.3786d6dc.chunk.js.map",
+    "main.css": "/teamapt-project/static/css/main.cd3c7300.chunk.css",
+    "main.js": "/teamapt-project/static/js/main.afea11ed.chunk.js",
+    "main.js.map": "/teamapt-project/static/js/main.afea11ed.chunk.js.map",
     "runtime-main.js": "/teamapt-project/static/js/runtime-main.87ca9f5a.js",
     "runtime-main.js.map": "/teamapt-project/static/js/runtime-main.87ca9f5a.js.map",
     "static/js/2.4b9b3760.chunk.js": "/teamapt-project/static/js/2.4b9b3760.chunk.js",
     "static/js/2.4b9b3760.chunk.js.map": "/teamapt-project/static/js/2.4b9b3760.chunk.js.map",
     "index.html": "/teamapt-project/index.html",
-    "static/css/main.774b8683.chunk.css.map": "/teamapt-project/static/css/main.774b8683.chunk.css.map",
+    "static/css/main.cd3c7300.chunk.css.map": "/teamapt-project/static/css/main.cd3c7300.chunk.css.map",
     "static/js/2.4b9b3760.chunk.js.LICENSE.txt": "/teamapt-project/static/js/2.4b9b3760.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.87ca9f5a.js",
     "static/js/2.4b9b3760.chunk.js",
-    "static/css/main.774b8683.chunk.css",
-    "static/js/main.3786d6dc.chunk.js"
+    "static/css/main.cd3c7300.chunk.css",
+    "static/js/main.afea11ed.chunk.js"
   ]
 }
