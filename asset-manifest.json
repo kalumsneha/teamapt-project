@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/teamapt-project/static/css/main.cd3c7300.chunk.css",
-    "main.js": "/teamapt-project/static/js/main.6fc15ff0.chunk.js",
-    "main.js.map": "/teamapt-project/static/js/main.6fc15ff0.chunk.js.map",
+    "main.js": "/teamapt-project/static/js/main.4dc3fc46.chunk.js",
+    "main.js.map": "/teamapt-project/static/js/main.4dc3fc46.chunk.js.map",
     "runtime-main.js": "/teamapt-project/static/js/runtime-main.87ca9f5a.js",
     "runtime-main.js.map": "/teamapt-project/static/js/runtime-main.87ca9f5a.js.map",
     "static/js/2.027f53e7.chunk.js": "/teamapt-project/static/js/2.027f53e7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.87ca9f5a.js",
     "static/js/2.027f53e7.chunk.js",
     "static/css/main.cd3c7300.chunk.css",
-    "static/js/main.6fc15ff0.chunk.js"
+    "static/js/main.4dc3fc46.chunk.js"
   ]
 }
